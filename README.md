@@ -37,7 +37,7 @@ If the output is 1, then the led glows.
 ### 
 Program:
 /*
-Program to design ![image](https://user-images.githubusercontent.com/119395610/212459244-d8541633-4a14-4b05-bc4f-0e04a9222f20.png)
+Program to design 
 a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: 
 RegisterNumber:  
@@ -66,4 +66,4 @@ RTL realization
 ### TRUTH TABLE 
 
 ### Result:
-Implementation of Half Adder and Full Adder is created successfully
+Thus the Half Adder and Full Adder circuits are designed and the truth table is verified using the quartus software
