@@ -42,7 +42,11 @@ a half adder and full adder circuit and verify its truth table in quartus using 
 Developed by: 
 RegisterNumber:  
 */
-Logic symbol & Truthtable
+Logic symbol & Truthtable:
+![truthtable half adder](https://user-images.githubusercontent.com/119395610/213470367-d60bf249-b621-4a1e-94e4-882b05214a7e.png)
+![truthtable full adder](https://user-images.githubusercontent.com/119395610/213470493-70d36677-5210-468c-a0b8-702f0f6a4f35.png)
+
+
 RTL realization
 
 ### Output:
