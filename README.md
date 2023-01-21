@@ -39,8 +39,13 @@ Program:
 /*
 Program to design 
 a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+
 Developed by: NIRAUNJANA GAYATHRI G R 
+
 RegisterNumber: 22008369 
+
+![image](https://user-images.githubusercontent.com/119395610/213846444-a4358a9f-0623-4a65-ad2e-6476528e1aee.png)
+
 */
 
 
